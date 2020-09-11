@@ -1,0 +1,13 @@
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.deps.json
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.runtimeconfig.json
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.runtimeconfig.dev.json
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csprojAssemblyReference.cache
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.AssemblyInfoInputs.cache
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.AssemblyInfo.cs
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csproj.CoreCompileInputs.cache
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb
+/home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.genruntimeconfig.cache
