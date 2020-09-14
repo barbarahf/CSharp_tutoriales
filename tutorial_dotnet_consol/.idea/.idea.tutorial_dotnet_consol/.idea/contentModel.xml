@@ -8,9 +8,11 @@
       <e p="tutorial_dotnet_consol" t="IncludeRecursive">
         <e p="EjerciciosVariables.cs" t="Include" />
         <e p="Ennum.cs" t="Include" />
+        <e p="LletresRepetides.cs" t="Include" />
         <e p="Metodos.cs" t="Include" />
         <e p="Variables.cs" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
+        <e p="cTutorial.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive">
           <e p="Debug" t="Include">
             <e p="netcoreapp3.1" t="Include">
