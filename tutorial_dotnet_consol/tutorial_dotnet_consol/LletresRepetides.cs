@@ -14,21 +14,27 @@ namespace tutorial_dotnet_consol
             return false;
         }
 
-        public static int vegades(List<char> l, char c)
+        //Metodo para almacenar desde una lista en un diccionario
+        public static void Vegades(List<char> l, Dictionary<char, int> savLletres)
         {
             int count = 0;
-            foreach (var item in l)
+
+            foreach (char s in l)
             {
-                if (item == c)
+                if (!savLletres.ContainsKey(s))
                 {
-                    count++;
+                    foreach (var numChar in l)
+                    {
+                        if (s == numChar) count++;
+                    }
+
+                    savLletres.Add(s, count);
+                    count = 0;
                 }
             }
-
-            return count;
         }
 
-        static void Main(string[] args)
+        static void Main02(string[] args)
         {
             //Fase 1
             char[] nombre = {'B', 'A', 'R', 'B', 'A', 'R', 'A'};
@@ -38,7 +44,7 @@ namespace tutorial_dotnet_consol
             }
 
             //Fase 2
-            List<char> nomList = nombre.OfType<char>().ToList();
+            List<char> nomList = Enumerable.OfType<char>(nombre).ToList();
             foreach (var i in nomList)
             {
                 if (char.IsDigit(i))
@@ -57,34 +63,32 @@ namespace tutorial_dotnet_consol
 
 
             //Fase 3
-            Dictionary<string, string> lletresRep =
-                new Dictionary<string, string>();
-
-            /*foreach (var i in lletresRep)
+            Dictionary<char, int> lletresRep =
+                new Dictionary<char, int>();
+            Vegades(nomList, lletresRep);
+            //Print 
+            foreach (KeyValuePair<char, int> i in lletresRep)
             {
-                    lletresRep.Add(vegades(nomList)); 
-            }*/
+                Console.WriteLine("Letra = {0}, Aparece = {1} veces", i.Key, i.Value);
+            }
 
-            /*Dictionary<string, object> letraVegades = new Dictionary<string, object>();
-            if (!letraVegades.ContainsKey(key))
+            //Fase 4
+            List<char> cognom = new List<char>()
             {
-                letraVegades.Add(key, 54);
-            }*/
-
-            /*lletresRep.Add("15","hola");*/
-            /*foreach(KeyValuePair<string, string> kvp in myDict) 
-            { 
-                Console.WriteLine("Key = {0}, Value = {1}", 
-                    kvp.Key, kvp.Value); 
-            } **/
-            /*public static void fi()
+                'H',
+                'E',
+                'R',
+                'R',
+                'E',
+                'R',
+                'A'
+            };
+            nomList.AddRange(" ");
+            nomList.AddRange(cognom);
+            foreach (var VARIABLE in nomList)
             {
-               
-            }*/
-            /*public static int vegades(string s, char c)
-     {
-         return s.Split(c).Length - 1;
-     }*/
+                Console.Write(VARIABLE);
+            }
         }
     }
 }

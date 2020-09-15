@@ -4,7 +4,7 @@ namespace tutorial_dotnet_consol
 {
     class Ejercicios
     {
-        static void main(string[] args)
+        static void Main04(string[] args)
         {
             //Basics
             Console.WriteLine("Hello World!");

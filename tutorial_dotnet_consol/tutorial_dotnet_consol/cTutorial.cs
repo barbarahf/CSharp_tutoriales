@@ -4,7 +4,7 @@ namespace tutorial_dotnet_consol
 {
     public class cTutorial
     {
-        static void Main03(string[] args)
+        static void Main05(string[] args)
         {
             Console.WriteLine("Enter a number: ");
             /*int num1 = Convert.ToInt32(Console.ReadLine());

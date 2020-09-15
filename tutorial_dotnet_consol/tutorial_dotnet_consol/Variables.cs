@@ -6,7 +6,7 @@ namespace tutorial_dotnet_consol
     {
         public const int anyBisiesto = 1948;
 
-        static void Main02(string[] args)
+        static void Main01(string[] args)
         {
             //Fase 1
             string nom = "Barbara";

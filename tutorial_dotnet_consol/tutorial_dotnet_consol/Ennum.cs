@@ -7,10 +7,10 @@ namespace tutorial_dotnet_consol
     {
         //Enum
         //Sirven para representar y manejar valores fijos
-        static void Main01(string[] args)
+        static void Main03(string[] args)
         {
             //Valores negativos
-            // Estaciones? alergia = null;
+            // Estaciones alergia = null;
             /*Estaciones alergia = Estaciones.Primavera;
             string La_Alergia = alergia.ToString();
             Console.Write(La_Alergia);*/
