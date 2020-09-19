@@ -6,12 +6,14 @@ namespace tutorial_dotnet_consol
 {
     public class Ciutats
     {
-        public static string[] ciutats = {"Barcelona", "Bercelone", "Valencia", "Malaga", "Cadis", "Santander"};
-        public static string abc = "abcdefghijklmnopqrstuvwxyz";
+        public static string[] ciutats =
+            {"Santander", "Barcelona", "Zaragoza", "Valencia", "Malaga", "Cadis", "Barcelona"};
+
         public static Dictionary<char, int> alphabet = new Dictionary<char, int>();
 
         static void CreateTable()
         {
+            string abc = "abcdefghijklmnopqrstuvwxyz";
             for (int i = 0; i < abc.Length; i++)
             {
                 alphabet.Add(abc[i], i);
@@ -37,21 +39,19 @@ namespace tutorial_dotnet_consol
 
         static bool CharValues(string s1, string s2)
         {
-            /*s1 = "Barcelona";
-            s2 = "Madrid";*/
-            next:
             for (int i = 0; i < s1.Length; i++)
             {
                 for (int j = 0; i < s2.Length; j++)
                 {
-                    if (alphabet[s1[i]] < alphabet[s2[j]])
-                    {
-                        return true; //Esto quiere decir que el orden alfabetico s1 va primero
-                    }
-
                     if (alphabet[s1[i]] == alphabet[s2[j]])
                     {
-                        goto next;
+                        i++;
+                        j++;
+                    }
+
+                    if (alphabet[s1[i]] < alphabet[s2[j]])
+                    {
+                        return true;
                     }
 
                     if (alphabet[s1[i]] > alphabet[s2[j]])
@@ -61,26 +61,36 @@ namespace tutorial_dotnet_consol
                 }
             }
 
-            return true;
+            return false;
+        }
+
+        static void changeChar(string[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                ciutats[i] = ciutats[i].Replace('a', '4');
+                ciutats[i] = ciutats[i].Replace('A', '4');
+            }
         }
 
         static void Main(string[] args)
         {
-            /*DateTime tiempo1 = DateTime.Now;
-            /*abdOrder();#1#
-            DateTime tiempo2 = DateTime.Now;
-            TimeSpan total = new TimeSpan(tiempo2.Ticks - tiempo1.Ticks);
-            Console.Write("TIEMPO: " + total.ToString());*/
-            foreach (var i in ciutats)
-            {
-                Console.WriteLine(i);
-            }
-
+            //Fase 1
+            //Metodos fasse 2
             CreateTable();
             orderArr();
+            //Fase 3
+            string[] ArrayCiutatsModificades = new string[ciutats.Length];
             foreach (var i in ciutats)
             {
-                Console.WriteLine(i);
+                Console.Write(i + " ");
+            }
+
+            changeChar(ArrayCiutatsModificades);
+            Console.WriteLine();
+            foreach (var i in ciutats)
+            {
+                Console.Write(i + " ");
             }
         }
     }
