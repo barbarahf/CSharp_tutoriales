@@ -6,8 +6,9 @@ namespace tutorial_dotnet_consol
 {
     public class Ciutats
     {
-        public static string[] ciutats =
-            {"Santander", "Barcelona", "Zaragoza", "Valencia", "Malaga", "Cadis", "Barcelona", "Alicante"};
+        //Fase 1
+
+        public static string[] ciutats;
 
         public static Dictionary<char, int> alphabet = new Dictionary<char, int>();
 
@@ -22,14 +23,13 @@ namespace tutorial_dotnet_consol
 
         static void OrderArr(string[] ciutats)
         {
-            string sav;
             for (int i = 0; i < ciutats.Length; i++)
             {
                 for (int j = i + 1; j < ciutats.Length; j++)
                 {
-                    if (!CharValues(ciutats[i].ToLower(), ciutats[j].ToLower()))
+                    if (ciutats[i] != null && !CharValues(ciutats[i].ToLower(), ciutats[j].ToLower()))
                     {
-                        sav = ciutats[i];
+                        var sav = ciutats[i];
                         ciutats[i] = ciutats[j];
                         ciutats[j] = sav;
                     }
@@ -74,10 +74,25 @@ namespace tutorial_dotnet_consol
             }
         }
 
-        static void Main(string[] args)
+        static void Main11(string[] args)
         {
             //Fase 1
+            Console.WriteLine("Introduce los nombres de las ciudades:");
+            ciutats = new[]
+                {
+                    Console.ReadLine()?.ToString(), Console.ReadLine()?.ToString(), Console.ReadLine()?.ToString(),
+                    Console.ReadLine()?.ToString(), Console.ReadLine()?.ToString(), Console.ReadLine()?.ToString()
+                }
+                ;
+
+            foreach (var i in ciutats)
+            {
+                Console.Write(i + " ");
+            }
+
             //Fase 2 (Metodos)
+            Console.WriteLine();
+
             CreateTable();
             OrderArr(ciutats);
             //Fase 3
