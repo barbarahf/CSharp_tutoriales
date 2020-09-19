@@ -1,13 +1,13 @@
 using System;
 using System.Collections.Generic;
-using System.Text;
+
 
 namespace tutorial_dotnet_consol
 {
     public class Ciutats
     {
         public static string[] ciutats =
-            {"Santander", "Barcelona", "Zaragoza", "Valencia", "Malaga", "Cadis", "Barcelona"};
+            {"Santander", "Barcelona", "Zaragoza", "Valencia", "Malaga", "Cadis", "Barcelona", "Alicante"};
 
         public static Dictionary<char, int> alphabet = new Dictionary<char, int>();
 
@@ -20,7 +20,7 @@ namespace tutorial_dotnet_consol
             }
         }
 
-        static void orderArr()
+        static void OrderArr(string[] ciutats)
         {
             string sav;
             for (int i = 0; i < ciutats.Length; i++)
@@ -64,33 +64,52 @@ namespace tutorial_dotnet_consol
             return false;
         }
 
-        static void changeChar(string[] arr)
+        static void ChangeChar(string[] arr)
         {
             for (int i = 0; i < arr.Length; i++)
             {
-                ciutats[i] = ciutats[i].Replace('a', '4');
-                ciutats[i] = ciutats[i].Replace('A', '4');
+                arr[i] = ciutats[i];
+                arr[i] = arr[i].Replace('a', '4');
+                arr[i] = arr[i].Replace('A', '4');
             }
         }
 
         static void Main(string[] args)
         {
             //Fase 1
-            //Metodos fasse 2
+            //Fase 2 (Metodos)
             CreateTable();
-            orderArr();
+            OrderArr(ciutats);
             //Fase 3
             string[] ArrayCiutatsModificades = new string[ciutats.Length];
-            foreach (var i in ciutats)
+            ChangeChar(ArrayCiutatsModificades);
+            foreach (var i in ArrayCiutatsModificades)
             {
                 Console.Write(i + " ");
             }
 
-            changeChar(ArrayCiutatsModificades);
             Console.WriteLine();
-            foreach (var i in ciutats)
+            //Fase 4
+            List<List<char[]>> ciudadesChar = new List<List<char[]>>();
+            for (int i = 0; i < ciutats.Length; i++)
             {
-                Console.Write(i + " ");
+                ciudadesChar.Add(new List<char[]>()
+                {
+                    ciutats[i].ToCharArray()
+                });
+            }
+
+            foreach (var i in ciudadesChar)
+            {
+                foreach (var colectionInterna in i)
+                {
+                    for (int j = colectionInterna.Length - 1; j >= 0; j--)
+                    {
+                        Console.Write(colectionInterna[j]);
+                    }
+
+                    Console.Write("  ");
+                }
             }
         }
     }
