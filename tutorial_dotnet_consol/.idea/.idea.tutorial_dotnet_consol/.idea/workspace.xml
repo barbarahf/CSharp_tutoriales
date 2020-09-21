@@ -14,12 +14,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9eeafa8-a5c7-4e5a-887f-1bcb1b5fe8eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/Excepciones.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/Ciutats.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/Ciutats.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/Metodos.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/colecciones.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/colecciones.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" afterDir="false" />
@@ -51,10 +51,10 @@
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Ennum.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/EjerciciosVariables.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/cTutorial.cs" />
-        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Metodos.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Excepciones.cs" />
-        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/colecciones.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Ciutats.cs" />
+        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Metodos.cs" />
+        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/colecciones.cs" />
       </list>
     </option>
   </component>
@@ -117,7 +117,9 @@
       <workItem from="1600328545092" duration="1853000" />
       <workItem from="1600363547321" duration="4851000" />
       <workItem from="1600420450481" duration="8264000" />
-      <workItem from="1600502798876" duration="19139000" />
+      <workItem from="1600502798876" duration="19589000" />
+      <workItem from="1600593761978" duration="4188000" />
+      <workItem from="1600670955143" duration="621000" />
     </task>
     <servers />
   </component>
@@ -142,43 +144,43 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2023" y="298" width="306" height="343" key="FileChooserDialogImpl" timestamp="1600508254862">
+    <state x="2023" y="298" width="306" height="343" key="FileChooserDialogImpl" timestamp="1600598462704">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="529" y="212" width="306" height="343" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1600367570541" />
-    <state x="2023" y="298" width="424" height="482" key="FileChooserDialogImpl/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600508254862" />
-    <state width="1878" height="246" key="GridCell.Tab.0.bottom" timestamp="1600531017557">
+    <state x="2023" y="298" width="424" height="482" key="FileChooserDialogImpl/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600598462704" />
+    <state width="1878" height="246" key="GridCell.Tab.0.bottom" timestamp="1600598833688">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="939" height="383" key="GridCell.Tab.0.bottom/0.0.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1599601602955" />
     <state width="1324" height="114" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1600368428770" />
     <state width="1878" height="266" key="GridCell.Tab.0.bottom/0.0.3200.1080@0.0.3200.1080" timestamp="1599819019523" />
     <state width="1238" height="103" key="GridCell.Tab.0.bottom/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600421013342" />
-    <state width="1878" height="246" key="GridCell.Tab.0.bottom/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600531017557" />
-    <state width="1878" height="246" key="GridCell.Tab.0.center" timestamp="1600531017556">
+    <state width="1878" height="246" key="GridCell.Tab.0.bottom/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600598833688" />
+    <state width="1878" height="246" key="GridCell.Tab.0.center" timestamp="1600598833688">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="939" height="383" key="GridCell.Tab.0.center/0.0.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1599601602955" />
     <state width="1324" height="114" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1600368428768" />
     <state width="1878" height="266" key="GridCell.Tab.0.center/0.0.3200.1080@0.0.3200.1080" timestamp="1599819019522" />
     <state width="1238" height="103" key="GridCell.Tab.0.center/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600421013342" />
-    <state width="1878" height="246" key="GridCell.Tab.0.center/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600531017556" />
-    <state width="1878" height="246" key="GridCell.Tab.0.left" timestamp="1600531017556">
+    <state width="1878" height="246" key="GridCell.Tab.0.center/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600598833688" />
+    <state width="1878" height="246" key="GridCell.Tab.0.left" timestamp="1600598833688">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="939" height="383" key="GridCell.Tab.0.left/0.0.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1599601602955" />
     <state width="1324" height="114" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1600368428766" />
     <state width="1878" height="266" key="GridCell.Tab.0.left/0.0.3200.1080@0.0.3200.1080" timestamp="1599819019522" />
     <state width="1238" height="103" key="GridCell.Tab.0.left/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600421013342" />
-    <state width="1878" height="246" key="GridCell.Tab.0.left/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600531017556" />
-    <state width="1878" height="246" key="GridCell.Tab.0.right" timestamp="1600531017557">
+    <state width="1878" height="246" key="GridCell.Tab.0.left/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600598833688" />
+    <state width="1878" height="246" key="GridCell.Tab.0.right" timestamp="1600598833688">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="939" height="383" key="GridCell.Tab.0.right/0.0.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1599601602955" />
     <state width="1324" height="114" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1600368428769" />
     <state width="1878" height="266" key="GridCell.Tab.0.right/0.0.3200.1080@0.0.3200.1080" timestamp="1599819019523" />
     <state width="1238" height="103" key="GridCell.Tab.0.right/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600421013342" />
-    <state width="1878" height="246" key="GridCell.Tab.0.right/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600531017557" />
+    <state width="1878" height="246" key="GridCell.Tab.0.right/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600598833688" />
     <state width="1878" height="383" key="GridCell.Tab.1.bottom" timestamp="1600529547976">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
