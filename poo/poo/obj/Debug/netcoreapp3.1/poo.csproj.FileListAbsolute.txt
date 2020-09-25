@@ -1,0 +1,13 @@
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/bin/Debug/netcoreapp3.1/poo
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/bin/Debug/netcoreapp3.1/poo.deps.json
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/bin/Debug/netcoreapp3.1/poo.runtimeconfig.json
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/bin/Debug/netcoreapp3.1/poo.runtimeconfig.dev.json
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/bin/Debug/netcoreapp3.1/poo.dll
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/bin/Debug/netcoreapp3.1/poo.pdb
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/Debug/netcoreapp3.1/poo.csprojAssemblyReference.cache
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/Debug/netcoreapp3.1/poo.AssemblyInfoInputs.cache
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/Debug/netcoreapp3.1/poo.AssemblyInfo.cs
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/Debug/netcoreapp3.1/poo.csproj.CoreCompileInputs.cache
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/Debug/netcoreapp3.1/poo.dll
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/Debug/netcoreapp3.1/poo.pdb
+/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/Debug/netcoreapp3.1/poo.genruntimeconfig.cache
