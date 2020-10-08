@@ -1,19 +1,22 @@
+ 
 using System;
 using System.Collections.Generic;
+using System.Net.Mime;
 
+namespace Youtube
 
-namespace poo
+ 
 {
-    public class Video
+    public class Videos
     {
         private static string url { get; set; }
         private static string titulo { get; set; }
         private List<string> groupOfTags = new List<string>();
 
-        public Video(string url, string titulo, List<string> groupOfTags)
+        public Videos(string url, string titulo, List<string> groupOfTags)
         {
-            url = Video.url;
-            titulo = Video.titulo;
+            url = Videos.url;
+            titulo = Videos.titulo;
         }
     }
 
@@ -38,15 +41,14 @@ namespace poo
         {
             //Video temp=new Video();
         }
+
+        static public void Main(String[] args)
+        {
+         
+        }
     }
     //check password
     //CHeck si nom usuario existe
-
-    public class Videos
-    {
-        static void Main01(string[] args)
-        {
-            Usuario user1= new Usuario("Unatalbarbara","Barbara","Herrera","123456", DateTime.Now);
-        }
-    }
+    
+   
 }

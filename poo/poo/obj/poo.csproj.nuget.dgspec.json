@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/poo.csproj": {}
+    "/home/barbara/Documentos/Programacion/Dotnet/poo/poo/poo.csproj": {}
   },
   "projects": {
-    "/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/poo.csproj": {
+    "/home/barbara/Documentos/Programacion/Dotnet/poo/poo/poo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/poo.csproj",
+        "projectUniqueName": "/home/barbara/Documentos/Programacion/Dotnet/poo/poo/poo.csproj",
         "projectName": "poo",
-        "projectPath": "/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/poo.csproj",
+        "projectPath": "/home/barbara/Documentos/Programacion/Dotnet/poo/poo/poo.csproj",
         "packagesPath": "/home/barbara/.nuget/packages/",
-        "outputPath": "/home/barbara/Documentos/IT Academy/net_Basics/poo/poo/obj/",
+        "outputPath": "/home/barbara/Documentos/Programacion/Dotnet/poo/poo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/barbara/.nuget/NuGet/NuGet.Config"

@@ -23,11 +23,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="195b8977-3583-43a5-8c0d-dcde02646cc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/poo/Videos.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Youtube/Youtube/Videos.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/poo/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/Videos.cs" beforeDir="false" afterPath="$PROJECT_DIR$/poo/Videos.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/obj/poo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/poo.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +49,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/poo/Videos.cs" />
         <option value="$PROJECT_DIR$/poo/Program.cs" />
+        <option value="$PROJECT_DIR$/poo/Videos.cs" />
       </list>
     </option>
   </component>
@@ -54,8 +63,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Youtube" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -93,6 +103,13 @@
       <workItem from="1600755493445" duration="2490000" />
       <workItem from="1600851659699" duration="1669000" />
       <workItem from="1600871593214" duration="127000" />
+      <workItem from="1601671421375" duration="241000" />
+      <workItem from="1601671687333" duration="501000" />
+      <workItem from="1601672225383" duration="30000" />
+      <workItem from="1601917883903" duration="778000" />
+      <workItem from="1602164693348" duration="2196000" />
+      <workItem from="1602167507545" duration="257000" />
+      <workItem from="1602167804203" duration="23000" />
     </task>
     <servers />
   </component>
@@ -117,29 +134,53 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1324" height="256" key="GridCell.Tab.0.bottom" timestamp="1600862954169">
-      <screen x="0" y="360" width="1280" height="720" />
+    <state x="2021" y="187" width="424" height="491" key="FileChooserDialogImpl" timestamp="1602167762994">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
+    <state x="466" y="157" width="424" height="491" key="FileChooserDialogImpl/0.29.1366.739/1366.0.1920.1080@0.29.1366.739" timestamp="1601671946695" />
+    <state x="2021" y="187" key="FileChooserDialogImpl/54.29.1312.739/1366.0.1920.1080@1366.0.1920.1080" timestamp="1602167762994" />
+    <state width="1320" height="262" key="GridCell.Tab.0.bottom" timestamp="1601672187705">
+      <screen x="0" y="29" width="1366" height="739" />
+    </state>
+    <state width="1320" height="262" key="GridCell.Tab.0.bottom/0.29.1366.739/1366.0.1920.1080@0.29.1366.739" timestamp="1601672187705" />
     <state width="1324" height="256" key="GridCell.Tab.0.bottom/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600862954169" />
     <state width="1878" height="256" key="GridCell.Tab.0.bottom/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600858157783" />
-    <state width="1324" height="256" key="GridCell.Tab.0.center" timestamp="1600862954169">
-      <screen x="0" y="360" width="1280" height="720" />
+    <state width="1320" height="262" key="GridCell.Tab.0.center" timestamp="1601672187705">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
+    <state width="1320" height="262" key="GridCell.Tab.0.center/0.29.1366.739/1366.0.1920.1080@0.29.1366.739" timestamp="1601672187705" />
     <state width="1324" height="256" key="GridCell.Tab.0.center/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600862954169" />
     <state width="1878" height="256" key="GridCell.Tab.0.center/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600858157783" />
-    <state width="1324" height="256" key="GridCell.Tab.0.left" timestamp="1600862954168">
-      <screen x="0" y="360" width="1280" height="720" />
+    <state width="1320" height="262" key="GridCell.Tab.0.left" timestamp="1601672187704">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
+    <state width="1320" height="262" key="GridCell.Tab.0.left/0.29.1366.739/1366.0.1920.1080@0.29.1366.739" timestamp="1601672187704" />
     <state width="1324" height="256" key="GridCell.Tab.0.left/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600862954168" />
     <state width="1878" height="256" key="GridCell.Tab.0.left/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600858157782" />
-    <state width="1324" height="256" key="GridCell.Tab.0.right" timestamp="1600862954169">
-      <screen x="0" y="360" width="1280" height="720" />
+    <state width="1320" height="262" key="GridCell.Tab.0.right" timestamp="1601672187705">
+      <screen x="0" y="29" width="1366" height="739" />
     </state>
+    <state width="1320" height="262" key="GridCell.Tab.0.right/0.29.1366.739/1366.0.1920.1080@0.29.1366.739" timestamp="1601672187705" />
     <state width="1324" height="256" key="GridCell.Tab.0.right/0.360.1280.720/1280.0.1920.1080@0.360.1280.720" timestamp="1600862954169" />
     <state width="1878" height="256" key="GridCell.Tab.0.right/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600858157783" />
-    <state x="1633" y="143" key="Rider.ProjectTemplateDialog.Size" timestamp="1600671957077">
-      <screen x="1280" y="0" width="1920" height="1080" />
+    <state x="1719" y="143" width="800" height="537" key="Rider.ProjectTemplateDialog.Size" timestamp="1602167733466">
+      <screen x="1366" y="0" width="1920" height="1080" />
     </state>
     <state x="1633" y="143" key="Rider.ProjectTemplateDialog.Size/0.360.1280.720/1280.0.1920.1080@1280.0.1920.1080" timestamp="1600671957077" />
+    <state x="1719" y="143" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/54.29.1312.739/1366.0.1920.1080@1366.0.1920.1080" timestamp="1602167733466" />
+    <state x="1960" y="196" width="722" height="695" key="RiderGenerateDialog" timestamp="1602165737627">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1960" y="196" width="722" height="695" key="RiderGenerateDialog/54.29.1312.739/1366.0.1920.1080@1366.0.1920.1080" timestamp="1602165737627" />
+    <state x="1552" y="0" width="1022" height="737" key="SettingsEditor" timestamp="1602167115359">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="132" y="29" width="1022" height="737" key="SettingsEditor/0.29.1366.739/1366.0.1920.1080@0.29.1366.739" timestamp="1601672242110" />
+    <state x="1552" y="0" width="1022" height="737" key="SettingsEditor/54.29.1312.739/1366.0.1920.1080@1366.0.1920.1080" timestamp="1602167115359" />
+    <state x="1852" y="88" width="672" height="678" key="search.everywhere.popup" timestamp="1602167084443">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.29.1366.739/1366.0.1920.1080@0.29.1366.739" timestamp="1601672085236" />
+    <state x="1852" y="88" width="672" height="678" key="search.everywhere.popup/54.29.1312.739/1366.0.1920.1080@1366.0.1920.1080" timestamp="1602167084443" />
   </component>
 </project>
