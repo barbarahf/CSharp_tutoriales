@@ -23,20 +23,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="195b8977-3583-43a5-8c0d-dcde02646cc9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Youtube/Youtube/Videos.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/Videos.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/Videos.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/bin/Debug/Youtube.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/bin/Debug/Youtube.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/bin/Debug/Youtube.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/bin/Debug/Youtube.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/contentModel.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/projectSettingsUpdater.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/.idea/.idea.Youtube/riderModule.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube/Properties/AssemblyInfo.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube/Videos.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube/Videos.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube/Youtube.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube/obj/Debug/.NETFramework,Version=v4.8.AssemblyAttributes.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../__Youtube/Youtube/obj/Debug/Youtube.csprojAssemblyReference.cache" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.poo/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.poo/riderModule.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poo/Videos.cs" beforeDir="false" afterPath="$PROJECT_DIR$/poo/Videos.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/Debug/netcoreapp3.1/poo.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/poo.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/poo.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poo/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/poo/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,6 +123,7 @@
       <workItem from="1602164693348" duration="2196000" />
       <workItem from="1602167507545" duration="257000" />
       <workItem from="1602167804203" duration="23000" />
+      <workItem from="1602171033915" duration="1367000" />
     </task>
     <servers />
   </component>

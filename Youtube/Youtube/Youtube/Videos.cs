@@ -1,5 +1,4 @@
-﻿using System;
-namespace Youtube
+﻿namespace Youtube
 {
   
     using System;
@@ -23,33 +22,7 @@ namespace Youtube
             }
         }
 
-        public class Usuario
-        {
-            private string nomUsuario;
-            private string nom;
-            private string cognom;
-            private string pasword;
-            private DateTime fechaRegistro;
-        
-            public Usuario(string nomUsuario,string nom, string cognom,string pasword, DateTime fechaRegistro)
-            {
-                nomUsuario = this.nomUsuario;
-                nom = this.nom;
-                cognom = this.cognom;
-                pasword = this.pasword;
-                fechaRegistro = this.fechaRegistro;
-            }
-
-            void createVideo()
-            {
-                //Video temp=new Video();
-            }
-
-            /*static public void Main(String[] args)
-            {
-         
-            }*/
-        }
+      
         //check password
         //CHeck si nom usuario existe
     

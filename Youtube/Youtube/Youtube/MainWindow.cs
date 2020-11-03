@@ -1,5 +1,7 @@
 ﻿using System;
 using Gtk;
+using Youtube;
+
 
 public partial class MainWindow : Gtk.Window
 {
@@ -12,5 +14,12 @@ public partial class MainWindow : Gtk.Window
     {
         Application.Quit();
         a.RetVal = true;
+    }
+
+ 
+    protected void Click(object sender, EventArgs e)
+    
+    {     
+        Usuario var01=new Usuario(entry1.Text,entry2.Text,entry3.Text,entry4.Text);
     }
 }

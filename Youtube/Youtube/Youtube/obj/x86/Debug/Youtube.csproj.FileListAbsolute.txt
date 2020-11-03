@@ -4,3 +4,9 @@
 /home/barbara/Documentos/Programacion/Dotnet/Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csproj.CoreCompileInputs.cache
 /home/barbara/Documentos/Programacion/Dotnet/Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.exe
 /home/barbara/Documentos/Programacion/Dotnet/Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.pdb
+/home/barbara/Documentos/Dev/Dotnet/Youtube/Youtube/Youtube/bin/Debug/Youtube.exe
+/home/barbara/Documentos/Dev/Dotnet/Youtube/Youtube/Youtube/bin/Debug/Youtube.pdb
+/home/barbara/Documentos/Dev/Dotnet/Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csprojAssemblyReference.cache
+/home/barbara/Documentos/Dev/Dotnet/Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csproj.CoreCompileInputs.cache
+/home/barbara/Documentos/Dev/Dotnet/Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.exe
+/home/barbara/Documentos/Dev/Dotnet/Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.pdb

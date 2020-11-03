@@ -41,7 +41,7 @@ namespace poo
     }
     //check password
     //CHeck si nom usuario existe
-
+    //Metodo de control y propertt y
     public class Videos
     {
         static void Main01(string[] args)

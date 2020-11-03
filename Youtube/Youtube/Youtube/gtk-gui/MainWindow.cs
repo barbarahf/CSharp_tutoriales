@@ -13,9 +13,11 @@ public partial class MainWindow
 
 	private global::Gtk.Entry entry4;
 
-	private global::Gtk.Button button2;
+	private global::Gtk.Button button_createUser;
 
 	private global::Gtk.Label label1;
+
+	private global::Gtk.Label label2;
 
 	protected virtual void Build()
 	{
@@ -69,13 +71,13 @@ public partial class MainWindow
 		w4.X = 113;
 		w4.Y = 292;
 		// Container child fixed1.Gtk.Fixed+FixedChild
-		this.button2 = new global::Gtk.Button();
-		this.button2.CanFocus = true;
-		this.button2.Name = "button2";
-		this.button2.UseUnderline = true;
-		this.button2.Label = global::Mono.Unix.Catalog.GetString("GtkButton");
-		this.fixed1.Add(this.button2);
-		global::Gtk.Fixed.FixedChild w5 = ((global::Gtk.Fixed.FixedChild)(this.fixed1[this.button2]));
+		this.button_createUser = new global::Gtk.Button();
+		this.button_createUser.CanFocus = true;
+		this.button_createUser.Name = "button_createUser";
+		this.button_createUser.UseUnderline = true;
+		this.button_createUser.Label = global::Mono.Unix.Catalog.GetString("GtkButton");
+		this.fixed1.Add(this.button_createUser);
+		global::Gtk.Fixed.FixedChild w5 = ((global::Gtk.Fixed.FixedChild)(this.fixed1[this.button_createUser]));
 		w5.X = 121;
 		w5.Y = 355;
 		// Container child fixed1.Gtk.Fixed+FixedChild
@@ -86,6 +88,14 @@ public partial class MainWindow
 		global::Gtk.Fixed.FixedChild w6 = ((global::Gtk.Fixed.FixedChild)(this.fixed1[this.label1]));
 		w6.X = 120;
 		w6.Y = 76;
+		// Container child fixed1.Gtk.Fixed+FixedChild
+		this.label2 = new global::Gtk.Label();
+		this.label2.Name = "label2";
+		this.label2.LabelProp = global::Mono.Unix.Catalog.GetString("label1");
+		this.fixed1.Add(this.label2);
+		global::Gtk.Fixed.FixedChild w7 = ((global::Gtk.Fixed.FixedChild)(this.fixed1[this.label2]));
+		w7.X = 173;
+		w7.Y = 99;
 		this.Add(this.fixed1);
 		if ((this.Child != null))
 		{
@@ -95,5 +105,6 @@ public partial class MainWindow
 		this.DefaultHeight = 494;
 		this.Show();
 		this.DeleteEvent += new global::Gtk.DeleteEventHandler(this.OnDeleteEvent);
+		this.button_createUser.Clicked += new global::System.EventHandler(this.Click);
 	}
 }
