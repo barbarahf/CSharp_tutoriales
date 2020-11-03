@@ -4,6 +4,18 @@
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
     <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_LINQ_CONSULTAS.1593441082.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="EJERCICIOS_LINK" t="IncludeRecursive">
+        <e p="EJERCICIOS_LINK.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="EJERCICIOS_LINK.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="LINQ_CONSULTAS" t="IncludeRecursive">
         <e p="LINQ_CONSULTAS.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
@@ -17,6 +29,18 @@
         </e>
       </e>
       <e p="LINQ_CONSULTAS.sln" t="IncludeFlat" />
+      <e p="LINQ_METHOD_SINTAX" t="IncludeRecursive">
+        <e p="LINQ_METHOD_SINTAX.csproj" t="IncludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LINQ_METHOD_SINTAX.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
       <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>

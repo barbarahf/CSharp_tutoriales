@@ -1,0 +1,13 @@
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.deps.json
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.runtimeconfig.json
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.runtimeconfig.dev.json
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csprojAssemblyReference.cache
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.AssemblyInfoInputs.cache
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.AssemblyInfo.cs
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csproj.CoreCompileInputs.cache
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.genruntimeconfig.cache

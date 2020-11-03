@@ -1,0 +1,13 @@
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/bin/Debug/netcoreapp3.1/LINQ_CONSULTAS
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/bin/Debug/netcoreapp3.1/LINQ_CONSULTAS.deps.json
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/bin/Debug/netcoreapp3.1/LINQ_CONSULTAS.runtimeconfig.json
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/bin/Debug/netcoreapp3.1/LINQ_CONSULTAS.runtimeconfig.dev.json
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/bin/Debug/netcoreapp3.1/LINQ_CONSULTAS.dll
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/bin/Debug/netcoreapp3.1/LINQ_CONSULTAS.pdb
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.csprojAssemblyReference.cache
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.AssemblyInfoInputs.cache
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.AssemblyInfo.cs
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.csproj.CoreCompileInputs.cache
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.dll
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.pdb
+/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.genruntimeconfig.cache
