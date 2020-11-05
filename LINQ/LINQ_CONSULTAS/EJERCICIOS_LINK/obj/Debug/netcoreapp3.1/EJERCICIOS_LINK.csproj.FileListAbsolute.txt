@@ -11,3 +11,16 @@
 /home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll
 /home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb
 /home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.genruntimeconfig.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\bin\Debug\netcoreapp3.1\EJERCICIOS_LINK.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\bin\Debug\netcoreapp3.1\EJERCICIOS_LINK.deps.json
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\bin\Debug\netcoreapp3.1\EJERCICIOS_LINK.runtimeconfig.json
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\bin\Debug\netcoreapp3.1\EJERCICIOS_LINK.runtimeconfig.dev.json
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\bin\Debug\netcoreapp3.1\EJERCICIOS_LINK.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\bin\Debug\netcoreapp3.1\EJERCICIOS_LINK.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\obj\Debug\netcoreapp3.1\EJERCICIOS_LINK.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\obj\Debug\netcoreapp3.1\EJERCICIOS_LINK.AssemblyInfoInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\obj\Debug\netcoreapp3.1\EJERCICIOS_LINK.AssemblyInfo.cs
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\obj\Debug\netcoreapp3.1\EJERCICIOS_LINK.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\obj\Debug\netcoreapp3.1\EJERCICIOS_LINK.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\obj\Debug\netcoreapp3.1\EJERCICIOS_LINK.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\EJERCICIOS_LINK\obj\Debug\netcoreapp3.1\EJERCICIOS_LINK.genruntimeconfig.cache

@@ -28,9 +28,37 @@
     <list default="true" id="41fb4326-f4a1-4859-9d42-f35c5901ff74" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS.sln" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.runtimeconfig.dev.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/EJERCICIOS_LINK.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/EJERCICIOS_LINK.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/EJERCICIOS_LINK.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/EJERCICIOS_LINK.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/Debug/netcoreapp3.1/LINQ_CONSULTAS.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/LINQ_CONSULTAS.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/LINQ_CONSULTAS.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/LINQ_CONSULTAS.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/LINQ_CONSULTAS.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_CONSULTAS/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/LINQ_METHOD_SINTAX.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/LINQ_METHOD_SINTAX.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/LINQ_METHOD_SINTAX.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/LINQ_METHOD_SINTAX.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +72,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
-        <option value="$PROJECT_DIR$/LINQ_METHOD_SINTAX/Program.cs" />
         <option value="$PROJECT_DIR$/LINQ_CONSULTAS/Program.cs" />
         <option value="$PROJECT_DIR$/EJERCICIOS_LINK/Program.cs" />
+        <option value="$PROJECT_DIR$/LINQ_METHOD_SINTAX/Program.cs" />
       </list>
     </option>
   </component>
@@ -57,14 +85,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34997287" />
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005425" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.environmentSetup" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.EJERCICIOS_LINK">
+  <component name="RunManager" selected=".NET Project.LINQ_METHOD_SINTAX">
     <configuration name="ConsoleApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -148,6 +177,8 @@
       <updated>1604408447921</updated>
       <workItem from="1604408450455" duration="556000" />
       <workItem from="1604414915835" duration="6315000" />
+      <workItem from="1604485164268" duration="1348000" />
+      <workItem from="1604486997844" duration="118000" />
     </task>
     <servers />
   </component>
@@ -172,21 +203,33 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1874" height="284" key="GridCell.Tab.0.bottom" timestamp="1604421374884">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="71" y="205" key="#SQL_Dialects" timestamp="1604485482545">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="71" y="205" key="#SQL_Dialects/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604485482545" />
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604485456446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604485456446" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1604486523879">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.bottom/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
-    <state width="1874" height="284" key="GridCell.Tab.0.center" timestamp="1604421374884">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1604486523879">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.center/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
-    <state width="1874" height="284" key="GridCell.Tab.0.left" timestamp="1604421374884">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1604486523879">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.left/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
-    <state width="1874" height="284" key="GridCell.Tab.0.right" timestamp="1604421374884">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1604486523879">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.right/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
     <state width="1874" height="378" key="GridCell.Tab.1.bottom" timestamp="1604417010145">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -257,5 +300,13 @@
     </state>
     <state x="555" y="275" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604420868119" />
     <state x="555" y="275" width="800" height="537" key="Rider.ProjectTemplateDialog.Size/296.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604408482368" />
+    <state x="448" y="49" key="RiderGenerateDialog" timestamp="1604485713144">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="448" y="49" key="RiderGenerateDialog/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604485713144" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1604485233527">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604485233527" />
   </component>
 </project>

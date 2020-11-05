@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HCdGlQrqHZQEe38afxPEnPs8MH8eUb2GrvTYJ6/GV32yWvFmRcrPZSQA5QgaqDTZAfJBSKQCxFPXNIcCKn2lDg==",
+  "dgSpecHash": "z+WtgjF40OE8KBjovRl187UsV9aPr6YUREqQDWvaCrBGjNIu5pbc1ahAqZ2OhGAJW31HO0n8elCVMddA783BJQ==",
   "success": true,
-  "projectFilePath": "/home/barbara/Documentos/Dev/Dotnet/LINQ/LINQ_CONSULTAS/LINQ_METHOD_SINTAX/LINQ_METHOD_SINTAX.csproj",
+  "projectFilePath": "C:\\Users\\herre\\OneDrive\\Documentos\\dotnet\\LINQ\\LINQ_CONSULTAS\\LINQ_METHOD_SINTAX\\LINQ_METHOD_SINTAX.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

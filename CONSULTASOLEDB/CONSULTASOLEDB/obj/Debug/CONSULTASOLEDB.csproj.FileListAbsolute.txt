@@ -1,0 +1,10 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\bin\Debug\CONSULTASOLEDB.exe.config
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\bin\Debug\CONSULTASOLEDB.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\bin\Debug\CONSULTASOLEDB.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\obj\Debug\CONSULTASOLEDB.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\obj\Debug\CONSULTASOLEDB.Form1.resources
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\obj\Debug\CONSULTASOLEDB.Properties.Resources.resources
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\obj\Debug\CONSULTASOLEDB.csproj.GenerateResource.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\obj\Debug\CONSULTASOLEDB.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\obj\Debug\CONSULTASOLEDB.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\CONSULTASOLEDB\CONSULTASOLEDB\obj\Debug\CONSULTASOLEDB.pdb

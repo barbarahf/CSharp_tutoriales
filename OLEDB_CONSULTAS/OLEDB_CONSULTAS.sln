@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLEDB_CONSULTAS", "OLEDB_CONSULTAS\OLEDB_CONSULTAS.csproj", "{310582A1-2F4E-4AD2-BE6B-E8AB5F55D904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{310582A1-2F4E-4AD2-BE6B-E8AB5F55D904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{310582A1-2F4E-4AD2-BE6B-E8AB5F55D904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{310582A1-2F4E-4AD2-BE6B-E8AB5F55D904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{310582A1-2F4E-4AD2-BE6B-E8AB5F55D904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAA149D4-4ACE-4A7E-B2A6-F43360928B00}
+	EndGlobalSection
+EndGlobal

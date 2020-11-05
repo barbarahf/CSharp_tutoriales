@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.OleDb;
 
 namespace LINQ_METHOD_SINTAX
 {
@@ -6,7 +7,7 @@ namespace LINQ_METHOD_SINTAX
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //      OleDbConnection con= new OleDbConnection();
         }
     }
 }

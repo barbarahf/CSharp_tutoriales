@@ -1,0 +1,13 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\obj\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\obj\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.AssemblyInfoInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\obj\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.AssemblyInfo.cs
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\obj\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\bin\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\bin\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.deps.json
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\bin\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.runtimeconfig.json
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\bin\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.runtimeconfig.dev.json
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\bin\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\bin\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\obj\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\obj\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\LINQ\LINQ_CONSULTAS\LINQ_METHOD_SINTAX\obj\Debug\netcoreapp3.1\LINQ_METHOD_SINTAX.genruntimeconfig.cache
