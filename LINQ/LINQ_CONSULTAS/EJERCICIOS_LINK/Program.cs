@@ -44,7 +44,15 @@ namespace EJERCICIOS_LINK
 
             int[] menorCinco = smallerThanFive.ToArray();
             int[] mayorCinco = greaterThanFive.ToArray();
+            foreach (var i in menorCinco)
+            {
+                Console.WriteLine(i);
+            }
 
+            foreach (var i in mayorCinco)
+            {
+                Console.WriteLine(i);
+            }
 
             //Ejercicio 04
             string[] noms = {"David", "Sergio", "Maria", "Laura", "Oscar", "Julia", "Oriol", "Ana"};
@@ -54,15 +62,28 @@ namespace EJERCICIOS_LINK
                 from nom in noms
                 where nom[0].Equals('O')
                 select nom;
+      
+            foreach (var i in nomFirstisO)
+            {
+                Console.Write(i+" ");
+            }
 
             //Consultar nombres con más de 6 letras
             var moreThanSixChars =
                 from i in noms
                 where i.Length >= 6
                 select i;
+            foreach (var i in moreThanSixChars)
+            {
+                Console.WriteLine  (i+" ");
+               
+            }
             noms.ToList();
-
             var arr = noms.OrderBy(x => x).ToArray();
+            for (int i = 0; i < arr.Length; i++)
+            {    Console.Write((i==arr.Length-1) ? arr[i]+" " :arr[i]+", ");
+                
+            }
         }
     }
 }
