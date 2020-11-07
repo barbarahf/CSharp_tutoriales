@@ -1,0 +1,6 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\Youtube\Youtube\bin\Debug\Youtube.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\Youtube\Youtube\bin\Debug\Youtube.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\Youtube\Youtube\obj\Debug\Youtube.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\Youtube\Youtube\obj\Debug\Youtube.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\Youtube\Youtube\obj\Debug\Youtube.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\Youtube\Youtube\obj\Debug\Youtube.pdb

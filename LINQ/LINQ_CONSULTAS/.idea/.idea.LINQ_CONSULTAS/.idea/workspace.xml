@@ -26,21 +26,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="41fb4326-f4a1-4859-9d42-f35c5901ff74" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LINQ_CONSULTAS/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/bin/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/EJERCICIOS_LINK/obj/Debug/netcoreapp3.1/EJERCICIOS_LINK.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/bin/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/bin/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/bin/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/bin/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LINQ_METHOD_SINTAX/obj/Debug/netcoreapp3.1/LINQ_METHOD_SINTAX.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/contentModel.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/encodings.xml" beforeDir="false" />
@@ -98,6 +83,7 @@
     <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30005425" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -187,7 +173,7 @@
       <workItem from="1604414915835" duration="6315000" />
       <workItem from="1604485164268" duration="1348000" />
       <workItem from="1604486997844" duration="118000" />
-      <workItem from="1604755281526" duration="1550000" />
+      <workItem from="1604755281526" duration="1664000" />
     </task>
     <servers />
   </component>
@@ -220,28 +206,28 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604485456446" />
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1604760435971">
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1604760557913">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760435971" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760557913" />
     <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.bottom/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
-    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1604760435971">
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1604760557913">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760435971" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760557913" />
     <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.center/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
-    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1604760435971">
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1604760557913">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760435971" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760557913" />
     <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.left/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
-    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1604760435971">
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1604760557913">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760435971" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604760557913" />
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/-281.-1080.1920.1040@0.0.1366.728" timestamp="1604486523879" />
     <state width="1874" height="284" key="GridCell.Tab.0.right/289.1080.1366.768/0.0.1920.1080@0.0.1920.1080" timestamp="1604421374884" />
     <state width="1874" height="378" key="GridCell.Tab.1.bottom" timestamp="1604417010145">

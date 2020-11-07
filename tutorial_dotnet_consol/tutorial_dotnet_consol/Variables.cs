@@ -4,7 +4,7 @@ namespace tutorial_dotnet_consol
 {
     public class Variables
     {
-        public const int anyBisiesto = 1948;
+        public const int AnyBisiesto = 1948;
 
         static void Main01(string[] args)
         {
@@ -22,7 +22,7 @@ namespace tutorial_dotnet_consol
             //FASE 2  & 3
             int contador = 0;
             bool isBisiesto = false;
-            for (int i = anyBisiesto; i <= any; i += 4)
+            for (int i = AnyBisiesto; i <= any; i += 4)
             {
                 Console.WriteLine(i);
                 contador++;
@@ -32,7 +32,7 @@ namespace tutorial_dotnet_consol
                 }
             }
 
-            Console.WriteLine($"Entre {anyBisiesto} y {any} hay {contador} años");
+            Console.WriteLine($"Entre {AnyBisiesto} y {any} hay {contador} años");
             string output = $"Mi nombre es {nom + " " + cognom1 + " " + cognom2}\n" +
                             $"Nací el {dia + "/" + mes + "/" + any}\n{(isBisiesto ? "Mi año de nacimiento es bisiesto" : "")}";
             Console.Write(output);

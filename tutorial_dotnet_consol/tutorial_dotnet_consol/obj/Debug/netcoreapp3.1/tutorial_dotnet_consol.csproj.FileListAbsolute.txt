@@ -11,3 +11,16 @@
 /home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll
 /home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb
 /home/barbara/Documentos/IT Academy/net_Basics/tutorial_dotnet_consol/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.genruntimeconfig.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\bin\Debug\netcoreapp3.1\tutorial_dotnet_consol.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\bin\Debug\netcoreapp3.1\tutorial_dotnet_consol.deps.json
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\bin\Debug\netcoreapp3.1\tutorial_dotnet_consol.runtimeconfig.json
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\bin\Debug\netcoreapp3.1\tutorial_dotnet_consol.runtimeconfig.dev.json
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\bin\Debug\netcoreapp3.1\tutorial_dotnet_consol.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\bin\Debug\netcoreapp3.1\tutorial_dotnet_consol.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\obj\Debug\netcoreapp3.1\tutorial_dotnet_consol.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\obj\Debug\netcoreapp3.1\tutorial_dotnet_consol.AssemblyInfoInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\obj\Debug\netcoreapp3.1\tutorial_dotnet_consol.AssemblyInfo.cs
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\obj\Debug\netcoreapp3.1\tutorial_dotnet_consol.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\obj\Debug\netcoreapp3.1\tutorial_dotnet_consol.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\obj\Debug\netcoreapp3.1\tutorial_dotnet_consol.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\tutorial_dotnet_consol\tutorial_dotnet_consol\obj\Debug\netcoreapp3.1\tutorial_dotnet_consol.genruntimeconfig.cache
