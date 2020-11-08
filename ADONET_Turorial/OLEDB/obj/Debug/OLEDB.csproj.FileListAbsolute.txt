@@ -1,0 +1,6 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\OLEDB\bin\Debug\OLEDB.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\OLEDB\bin\Debug\OLEDB.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\OLEDB\obj\Debug\OLEDB.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\OLEDB\obj\Debug\OLEDB.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\OLEDB\obj\Debug\OLEDB.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\OLEDB\obj\Debug\OLEDB.pdb

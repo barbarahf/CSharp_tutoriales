@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONET_Turorial", "ADONET_Turorial\ADONET_Turorial.csproj", "{ADC4D713-58AE-4493-8179-3FE554ADC4D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLEDB", "OLEDB\OLEDB.csproj", "{8F44B9FD-AE43-4EF0-A269-1C8D6B7513CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLCONNECTION", "SQLCONNECTION\SQLCONNECTION.csproj", "{579A8113-4E1E-44C4-8E14-7D0966D16F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADC4D713-58AE-4493-8179-3FE554ADC4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC4D713-58AE-4493-8179-3FE554ADC4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC4D713-58AE-4493-8179-3FE554ADC4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC4D713-58AE-4493-8179-3FE554ADC4D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F44B9FD-AE43-4EF0-A269-1C8D6B7513CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F44B9FD-AE43-4EF0-A269-1C8D6B7513CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F44B9FD-AE43-4EF0-A269-1C8D6B7513CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F44B9FD-AE43-4EF0-A269-1C8D6B7513CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{579A8113-4E1E-44C4-8E14-7D0966D16F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{579A8113-4E1E-44C4-8E14-7D0966D16F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{579A8113-4E1E-44C4-8E14-7D0966D16F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{579A8113-4E1E-44C4-8E14-7D0966D16F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

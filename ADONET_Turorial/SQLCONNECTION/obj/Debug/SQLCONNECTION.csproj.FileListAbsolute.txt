@@ -1,0 +1,6 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\SQLCONNECTION\bin\Debug\SQLCONNECTION.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\SQLCONNECTION\bin\Debug\SQLCONNECTION.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\SQLCONNECTION\obj\Debug\SQLCONNECTION.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\SQLCONNECTION\obj\Debug\SQLCONNECTION.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\SQLCONNECTION\obj\Debug\SQLCONNECTION.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\SQLCONNECTION\obj\Debug\SQLCONNECTION.pdb
