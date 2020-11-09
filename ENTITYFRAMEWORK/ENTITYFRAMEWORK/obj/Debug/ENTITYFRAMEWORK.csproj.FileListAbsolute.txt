@@ -1,0 +1,12 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\ENTITYFRAMEWORK.exe.config
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\ENTITYFRAMEWORK.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\ENTITYFRAMEWORK.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.xml
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.csproj.CopyComplete
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ENTITYFRAMEWORK\ENTITYFRAMEWORK\obj\Debug\ENTITYFRAMEWORK.pdb

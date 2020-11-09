@@ -11,11 +11,12 @@ namespace SQLCONNECTION
             Console.WriteLine("Getting Connection ...");
 
 
-            string connString = "Server= localhost; Database= store; Integrated Security=True;";
-
-            SqlConnection connection = new SqlConnection(connString);
+          
             try
             {
+                string connString = "Server= localhost; Database= store; Integrated Security=True;";
+
+                SqlConnection connection = new SqlConnection(connString);
                 Console.WriteLine("Openning Connection ...");
 
                 //open connection
@@ -36,12 +37,41 @@ namespace SQLCONNECTION
                     Console.WriteLine("Query Executed.");
                 }
 
-                strBuilder.Clear(); // clear 
+
+                strBuilder.Clear();
+                // clear 
+                connection.Close();
             }
             catch (Exception e)
             {
                 Console.WriteLine("Error: " + e.Message);
             }
+            
+            try
+            {
+                string ConString = "Server= localhost; Database= store; Integrated Security=True;";
+                using (SqlConnection connection = new SqlConnection(ConString))
+                {
+                    // Creating SqlCommand objcet   
+                    SqlCommand cm = new SqlCommand("select * from fabricante", connection);
+                    // Opening Connection  
+                    connection.Open();
+                    // Executing the SQL query  
+                    SqlDataReader sdr = cm.ExecuteReader();
+                    while (sdr.Read())
+                    {
+                        Console.WriteLine(sdr["Codigo"] + ". " + sdr["Nombre"]);
+                    }
+
+                    connection.Close();
+                }
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("OOPs, something went wrong.\n" + e);
+            }
+
+            Console.ReadKey();
 
             Console.Read();
         }

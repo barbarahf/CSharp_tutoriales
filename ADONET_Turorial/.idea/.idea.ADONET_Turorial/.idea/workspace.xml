@@ -4,6 +4,7 @@
     <projectFile>ADONET_Turorial/ADONET_Turorial.csproj</projectFile>
     <projectFile>OLEDB/OLEDB.csproj</projectFile>
     <projectFile>SQLCONNECTION/SQLCONNECTION.csproj</projectFile>
+    <projectFile>ENTITYFRAMEWORK/ENTITYFRAMEWORK.csproj</projectFile>
   </component>
   <component name="BranchesTreeState">
     <expand>
@@ -25,7 +26,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="55774e04-9314-4678-bf43-195577dbdd2a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CONSULTASOLEDB/CONSULTASOLEDB/obj/Debug/CONSULTASOLEDB.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../CONSULTASOLEDB/CONSULTASOLEDB/obj/Debug/CONSULTASOLEDB.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ADONET_Turorial/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ADONET_Turorial/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ADONET_Turorial/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ADONET_Turorial/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ADONET_Turorial.sln" beforeDir="false" afterPath="$PROJECT_DIR$/ADONET_Turorial.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/.vs/OLEDB/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/.vs/OLEDB/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/.vs/slnx.sqlite" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/.vs/slnx.sqlite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/bin/Debug/OLEDB.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/bin/Debug/OLEDB.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/bin/Debug/OLEDB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/bin/Debug/OLEDB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/obj/Debug/OLEDB.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/obj/Debug/OLEDB.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/obj/Debug/OLEDB.exe" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/obj/Debug/OLEDB.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OLEDB/obj/Debug/OLEDB.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/OLEDB/obj/Debug/OLEDB.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLCONNECTION/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/SQLCONNECTION/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLCONNECTION/bin/Debug/SQLCONNECTION.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SQLCONNECTION/bin/Debug/SQLCONNECTION.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLCONNECTION/bin/Debug/SQLCONNECTION.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SQLCONNECTION/bin/Debug/SQLCONNECTION.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.exe" beforeDir="false" afterPath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/SQLCONNECTION/obj/Debug/SQLCONNECTION.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +57,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/SQLCONNECTION/TutorialStringBuilder.cs" />
-        <option value="$PROJECT_DIR$/SQLCONNECTION/Program.cs" />
         <option value="$PROJECT_DIR$/OLEDB/Program.cs" />
+        <option value="$PROJECT_DIR$/SQLCONNECTION/GetData.cs" />
+        <option value="$PROJECT_DIR$/SQLCONNECTION/Program.cs" />
+        <option value="$PROJECT_DIR$/ENTITYFRAMEWORK/Program.cs" />
       </list>
     </option>
   </component>
@@ -58,7 +78,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Project.OLEDB">
+  <component name="RunManager" selected=".NET Project.ADONET_Turorial">
     <configuration name="ADONET_Turorial" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -68,6 +88,24 @@
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
       <option name="PROJECT_PATH" value="$PROJECT_DIR$/ADONET_Turorial/ADONET_Turorial.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="ENTITYFRAMEWORK" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/ENTITYFRAMEWORK/ENTITYFRAMEWORK.csproj" />
       <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
       <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
       <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
@@ -125,7 +163,9 @@
       <workItem from="1604857040165" duration="2589000" />
       <workItem from="1604860954725" duration="3590000" />
       <workItem from="1604875588640" duration="147000" />
-      <workItem from="1604876307588" duration="933000" />
+      <workItem from="1604876307588" duration="2523000" />
+      <workItem from="1604878907320" duration="481000" />
+      <workItem from="1604921917236" duration="1591000" />
     </task>
     <servers />
   </component>
@@ -150,22 +190,22 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1875" height="322" key="GridCell.Tab.0.bottom" timestamp="1604877111419">
+    <state width="1875" height="322" key="GridCell.Tab.0.bottom" timestamp="1604923398128">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1875" height="322" key="GridCell.Tab.0.bottom/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604877111419" />
-    <state width="1875" height="322" key="GridCell.Tab.0.center" timestamp="1604877111419">
+    <state width="1875" height="322" key="GridCell.Tab.0.bottom/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604923398128" />
+    <state width="1875" height="322" key="GridCell.Tab.0.center" timestamp="1604923398127">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1875" height="322" key="GridCell.Tab.0.center/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604877111419" />
-    <state width="1875" height="322" key="GridCell.Tab.0.left" timestamp="1604877111419">
+    <state width="1875" height="322" key="GridCell.Tab.0.center/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604923398127" />
+    <state width="1875" height="322" key="GridCell.Tab.0.left" timestamp="1604923398127">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1875" height="322" key="GridCell.Tab.0.left/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604877111419" />
-    <state width="1875" height="322" key="GridCell.Tab.0.right" timestamp="1604877111419">
+    <state width="1875" height="322" key="GridCell.Tab.0.left/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604923398127" />
+    <state width="1875" height="322" key="GridCell.Tab.0.right" timestamp="1604923398128">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state width="1875" height="322" key="GridCell.Tab.0.right/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604877111419" />
+    <state width="1875" height="322" key="GridCell.Tab.0.right/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604923398128" />
     <state width="1875" height="374" key="GridCell.Tab.1.bottom" timestamp="1604859644878">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
@@ -230,9 +270,9 @@
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
     <state width="1875" height="374" key="GridCell.Tab.4.right/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604859644878" />
-    <state x="270" y="-829" key="Rider.ProjectTemplateDialog.Size" timestamp="1604857139144">
+    <state x="270" y="-829" key="Rider.ProjectTemplateDialog.Size" timestamp="1604922861848">
       <screen x="-281" y="-1080" width="1920" height="1040" />
     </state>
-    <state x="270" y="-829" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604857139144" />
+    <state x="270" y="-829" key="Rider.ProjectTemplateDialog.Size/0.0.1366.728/-281.-1080.1920.1040@-281.-1080.1920.1040" timestamp="1604922861848" />
   </component>
 </project>
