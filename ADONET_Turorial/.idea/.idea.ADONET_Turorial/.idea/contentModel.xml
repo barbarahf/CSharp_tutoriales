@@ -18,6 +18,7 @@
       <e p="ADONET_Turorial.sln" t="IncludeFlat" />
       <e p="OLEDB" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Factura.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
         <e p="OLEDB.csproj" t="IncludeRecursive" />
         <e p="Program.cs" t="Include" />
