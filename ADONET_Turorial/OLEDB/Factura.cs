@@ -5,23 +5,24 @@ namespace OLEDB
 {
     public class Factura
     {
-        private int _numFactura;
-        private String _nombre;
-        private String _nombreProducto;
-        private int _cantidad;
-        private int _cantidadTotal;
+        private int NumFactura { get;   }
+        private String Nombre { get;   }
+        private String NombreProducto { get;  }
+        private int Cantidad { get;   }
+        private int CantidadTotal { get;  }
+
         public Factura(int numFactura, string nombre, string nombreProducto, int cantidad, int cantidadTotal)
         {
-            _numFactura = numFactura;
-            _nombre = nombre;
-            _nombreProducto = nombreProducto;
-            _cantidad = cantidad;
-            _cantidadTotal = cantidadTotal;
+            NumFactura = numFactura;
+            Nombre = nombre;
+            NombreProducto = nombreProducto;
+            Cantidad = cantidad;
+            CantidadTotal = cantidadTotal;
         }
 
         public override string ToString()
         {
-            return _numFactura+" "+_nombre + " " + _nombreProducto + " " + _cantidad + " " + _cantidadTotal;
+            return NumFactura + " " + Nombre + " " + NombreProducto + " " + Cantidad + " " + CantidadTotal;
         }
     }
 }

@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data.OleDb;
-using System.Data.SqlTypes;
+using System.IO;
+using System.Text.Json;
 
 namespace OLEDB
 {
@@ -19,14 +20,24 @@ namespace OLEDB
             string consulta01 =
                 "SELECT numFactura,nombre,nombreprod,cantidad,cantidad*precio FROM ((producto JOIN item_ventas on codiprod=codigoProducto) JOIN ventas ON numFactura=numeroFactura JOIN cliente ON codigo=codigoCliente);";
 
-            crearObjeto(connectionString, consulta01, facturas);
-            foreach (var eFactura in facturas)
-            {
-                Console.WriteLine(eFactura.ToString());
-            }
+            CrearObjeto(connectionString, consulta01, facturas);
+            // foreach (var eFactura in facturas)
+            // {
+            //     Console.WriteLine(eFactura.ToString());
+            // }
+
+            // Serializar objeto a Json
+            // var example = new Factura(888, "Isabel", "Mesa de escritorio", 88, 1111);
+            // string jsonString;
+            // jsonString = JsonSerializer.Serialize();
+
+            // //Sincrono
+            // File.WriteAllText(@"C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\OLEDB\jsonFactura.json",
+            //     jsonString);
         }
 
-        private static void crearObjeto(string connectionString, string insertSql, List<Factura> facturas)
+
+        private static void CrearObjeto(string connectionString, string insertSql, List<Factura> facturas)
         {
             using (OleDbConnection connection = new OleDbConnection(connectionString))
             {
@@ -61,7 +72,7 @@ namespace OLEDB
             }
         }
 
-        private static void Consulta(string connectionString, string insertSql)
+        private static void Consulta(string connectionString, string insertSql) //Solo para mostrar
         {
             using (OleDbConnection connection = new OleDbConnection(connectionString))
             {
