@@ -14,88 +14,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f9eeafa8-a5c7-4e5a-887f-1bcb1b5fe8eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/ClasesAnonimas.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LINQ/LINQ_CONSULTAS/.idea/.idea.LINQ_CONSULTAS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LINQ/LINQ_CONSULTAS/.idea/.idea.LINQ_CONSULTAS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.idea/.idea.OLEDB_CONSULTAS/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.vs/OLEDB_CONSULTAS/DesignTimeBuild/.dtbcache.v2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/.vs/OLEDB_CONSULTAS/v16/.suo" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/OLEDB_CONSULTAS.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/OLEDB_CONSULTAS.csproj.user" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/Debug/netcoreapp3.1/OLEDB_CONSULTAS.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/Debug/netcoreapp3.1/OLEDB_CONSULTAS.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/Debug/netcoreapp3.1/OLEDB_CONSULTAS.assets.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/Debug/netcoreapp3.1/OLEDB_CONSULTAS.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/OLEDB_CONSULTAS.csproj.nuget.dgspec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/OLEDB_CONSULTAS.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/OLEDB_CONSULTAS.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/project.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../OLEDB_CONSULTAS/OLEDB_CONSULTAS/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.idea/.idea.Youtube/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/.vs/Youtube/xs/UserPrefs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube.sln" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/.idea/contentModel.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/.idea/indexLayout.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/.idea/projectSettingsUpdater.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/.idea/.idea.Youtube.dir/riderModule.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/MainWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/Properties/AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/Usuario.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/Videos.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/Youtube.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/bin/Debug/Youtube.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/bin/Debug/Youtube.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/gtk-gui/MainWindow.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/gtk-gui/generated.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/gtk-gui/gui.stetic" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/.NETFramework,Version=v4.7.AssemblyAttributes.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.csprojAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Youtube/Youtube/Youtube/obj/x86/Debug/Youtube.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ENTITYFRAMEWORK/.vs/ENTITYFRAMEWORK/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../ENTITYFRAMEWORK/.vs/ENTITYFRAMEWORK/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ENTITYFRAMEWORK/ENTITYFRAMEWORK/obj/Debug/ENTITYFRAMEWORK.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../ENTITYFRAMEWORK/ENTITYFRAMEWORK/obj/Debug/ENTITYFRAMEWORK.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.tutorial_dotnet_consol/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/Variables.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/Variables.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.runtimeconfig.dev.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/bin/Debug/netcoreapp3.1/tutorial_dotnet_consol.runtimeconfig.dev.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/colecciones.cs" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/Colecciones.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.csprojAssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/Debug/netcoreapp3.1/tutorial_dotnet_consol.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/tutorial_dotnet_consol.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/tutorial_dotnet_consol.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/tutorial_dotnet_consol.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/obj/tutorial_dotnet_consol.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tutorial_dotnet_consol/tutorial_dotnet_consol.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/tutorial_dotnet_consol/tutorial_dotnet_consol.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,9 +46,12 @@
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Ciutats.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Metodos.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/colecciones.cs" />
-        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/ClasesAnonimas.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Variables.cs" />
         <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Ennum.cs" />
+        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/DependencyInjection/Dependency.cs" />
+        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/Dependency.cs" />
+        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/User.cs" />
+        <option value="$PROJECT_DIR$/tutorial_dotnet_consol/ClasesAnonimas.cs" />
       </list>
     </option>
   </component>
@@ -193,6 +119,7 @@
       <workItem from="1600670955143" duration="621000" />
       <workItem from="1604761737433" duration="1937000" />
       <workItem from="1604769987913" duration="841000" />
+      <workItem from="1605081472087" duration="988000" />
     </task>
     <servers />
   </component>

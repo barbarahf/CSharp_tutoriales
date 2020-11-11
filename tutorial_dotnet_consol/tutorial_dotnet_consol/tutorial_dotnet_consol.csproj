@@ -7,6 +7,15 @@
 
     <ItemGroup>
       <Compile Remove="AsyyncProgramBreakfast.cs" />
+      <Compile Remove="DependencyInjection\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="DependencyInjection\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="DependencyInjection\**" />
     </ItemGroup>
 
 </Project>

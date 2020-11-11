@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DenpendencyInjection", "DenpendencyInjection\DenpendencyInjection.csproj", "{9F6F3194-EE4E-4C05-8CC1-00AC93D81ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Juego", "Juego\Juego.csproj", "{A19665BB-1D15-453A-9CD4-B37E722150F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tanque", "Tanque\Tanque.csproj", "{A2754693-4DB0-440A-B1C7-081BF70FE944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F6F3194-EE4E-4C05-8CC1-00AC93D81ADA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F6F3194-EE4E-4C05-8CC1-00AC93D81ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F6F3194-EE4E-4C05-8CC1-00AC93D81ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F6F3194-EE4E-4C05-8CC1-00AC93D81ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A19665BB-1D15-453A-9CD4-B37E722150F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A19665BB-1D15-453A-9CD4-B37E722150F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A19665BB-1D15-453A-9CD4-B37E722150F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A19665BB-1D15-453A-9CD4-B37E722150F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2754693-4DB0-440A-B1C7-081BF70FE944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2754693-4DB0-440A-B1C7-081BF70FE944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2754693-4DB0-440A-B1C7-081BF70FE944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2754693-4DB0-440A-B1C7-081BF70FE944}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

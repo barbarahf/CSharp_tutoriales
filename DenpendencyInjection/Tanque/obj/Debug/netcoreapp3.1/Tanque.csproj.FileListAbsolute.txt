@@ -1,0 +1,13 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\bin\Debug\netcoreapp3.1\Tanque.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\bin\Debug\netcoreapp3.1\Tanque.deps.json
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\bin\Debug\netcoreapp3.1\Tanque.runtimeconfig.json
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\bin\Debug\netcoreapp3.1\Tanque.runtimeconfig.dev.json
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\bin\Debug\netcoreapp3.1\Tanque.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\bin\Debug\netcoreapp3.1\Tanque.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\obj\Debug\netcoreapp3.1\Tanque.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\obj\Debug\netcoreapp3.1\Tanque.AssemblyInfoInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\obj\Debug\netcoreapp3.1\Tanque.AssemblyInfo.cs
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\obj\Debug\netcoreapp3.1\Tanque.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\obj\Debug\netcoreapp3.1\Tanque.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\obj\Debug\netcoreapp3.1\Tanque.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Tanque\obj\Debug\netcoreapp3.1\Tanque.genruntimeconfig.cache

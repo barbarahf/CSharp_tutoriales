@@ -1,0 +1,13 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\bin\Debug\netcoreapp3.1\Juego.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\bin\Debug\netcoreapp3.1\Juego.deps.json
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.json
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\bin\Debug\netcoreapp3.1\Juego.runtimeconfig.dev.json
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\bin\Debug\netcoreapp3.1\Juego.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\bin\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\obj\Debug\netcoreapp3.1\Juego.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfoInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\obj\Debug\netcoreapp3.1\Juego.AssemblyInfo.cs
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\obj\Debug\netcoreapp3.1\Juego.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\obj\Debug\netcoreapp3.1\Juego.dll
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\obj\Debug\netcoreapp3.1\Juego.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\DenpendencyInjection\Juego\obj\Debug\netcoreapp3.1\Juego.genruntimeconfig.cache
