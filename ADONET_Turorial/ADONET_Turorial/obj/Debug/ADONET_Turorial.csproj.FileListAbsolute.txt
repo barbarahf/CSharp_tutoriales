@@ -1,0 +1,6 @@
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\ADONET_Turorial\bin\Debug\ADONET_Turorial.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\ADONET_Turorial\bin\Debug\ADONET_Turorial.pdb
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\ADONET_Turorial\obj\Debug\ADONET_Turorial.csprojAssemblyReference.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\ADONET_Turorial\obj\Debug\ADONET_Turorial.csproj.CoreCompileInputs.cache
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\ADONET_Turorial\obj\Debug\ADONET_Turorial.exe
+C:\Users\herre\OneDrive\Documentos\dotnet\ADONET_Turorial\ADONET_Turorial\obj\Debug\ADONET_Turorial.pdb
